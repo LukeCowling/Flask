@@ -1,0 +1,1 @@
+mongodb_URI = "mongodb+srv://Cowl1ng:Cricket_sucks@main.4zyyk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
